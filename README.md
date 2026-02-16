@@ -79,8 +79,8 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kenneennn&amp;theme=algolia&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
+[[![trophy](https://github-profile-trophy.vercel.app/?username=kenneennn&amp;theme=algolia&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;column=6)](https://github.com/ryo-ma/github-profile-trophy)
+](https://www.flaticon.com/free-icon/trophy_8348232)
 </div>
 
 ---
