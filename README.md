@@ -2,7 +2,10 @@
 
 <!-- ░░░░░░░░░░░░░░░░░░░░░░ HEADER ░░░░░░░░░░░░░░░░░░░░░░ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,50:203a43,100:2c5364&amp;height=200&amp;section=header&amp;text=Ken%20Grande&amp;fontSize=60&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Software%20Developer%20%7C%20Full-Stack%20%26%20Backend&amp;descAlignY=58&amp;descColor=88c0d0&amp;animation=fadeIn" width="100%"/>
+<img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="100%" alt="Ken Grande - Software Developer"/>
+
+<h1>Ken Grande</h1>
+<h3>Software Developer &amp; Full-Stack &amp; Backend</h3>
 
 <br/>
 
