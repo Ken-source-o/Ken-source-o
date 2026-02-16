@@ -77,12 +77,6 @@
 </tr>
 </table>
 
-<div align="center">
-
-[[![trophy](https://github-profile-trophy.vercel.app/?username=kenneennn&amp;theme=algolia&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;column=6)](https://github.com/ryo-ma/github-profile-trophy)
-](https://www.flaticon.com/free-icon/trophy_8348232)
-</div>
-
 ---
 
 ## 🛠️ Tech Stack
@@ -142,12 +136,6 @@
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kenneennn&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=88c0d0&amp;icon_color=2c5364&amp;text_color=ffffff" height="170"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenneennn&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=88c0d0&amp;text_color=ffffff" height="170"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kenneennn&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;ring=2c5364&amp;fire=88c0d0&amp;currStreakLabel=88c0d0" width="60%"/>
