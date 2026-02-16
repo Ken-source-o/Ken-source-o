@@ -2,13 +2,13 @@
 
 <!-- ░░░░░░░░░░░░░░░░░░░░░░ HEADER ░░░░░░░░░░░░░░░░░░░░░░ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ken%20Grande&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Full-Stack%20%26%20Backend&descAlignY=58&descColor=88c0d0&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,50:203a43,100:2c5364&amp;height=200&amp;section=header&amp;text=Ken%20Grande&amp;fontSize=60&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Software%20Developer%20%7C%20Full-Stack%20%26%20Backend&amp;descAlignY=58&amp;descColor=88c0d0&amp;animation=fadeIn" width="100%"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=kenneennn&label=Profile%20Views&color=2c5364&style=for-the-badge" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=kenneennn&amp;label=Profile%20Views&amp;color=2c5364&amp;style=for-the-badge" alt="profile views"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/kenneennn?label=Followers&style=for-the-badge&color=203a43&logoColor=white" alt="followers"/>
+<img src="https://img.shields.io/github/followers/kenneennn?label=Followers&amp;style=for-the-badge&amp;color=203a43&amp;logoColor=white" alt="followers"/>
 
 </div>
 
@@ -19,7 +19,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=88C0D0&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Ken+Grande+%F0%9F%91%8B;Full-Stack+%26+Backend+Developer;.NET+%7C+Blazor+%7C+Node.js+Enthusiast;Clean+Code+%7C+Scalable+Systems;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=88C0D0&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Hey+there%2C+I'm+Ken+Grande+%F0%9F%91%8B;Full-Stack+%26+Backend+Developer;.NET+%7C+Blazor+%7C+Node.js+Enthusiast;Clean+Code+%7C+Scalable+Systems;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 </div>
@@ -42,7 +42,7 @@
 ```
 
 ### 🎯 What I Do
-- 🔌 **Build** scalable REST APIs & web systems
+- 🔌 **Build** scalable REST APIs &amp; web systems
 - 🏗️ **Architect** clean, maintainable solutions
 - 🗄️ **Design** efficient database schemas
 - 🐳 **Containerize** apps with Docker
@@ -62,12 +62,12 @@
 
 ### ⚡ Developer DNA
 <p>
-  <img src="https://img.shields.io/badge/Mindset-Problem%20Solver-2c5364?style=flat-square&logo=thinkpad&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Loves-Clean%20Code-88c0d0?style=flat-square&logo=codacy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hobby-Debugging-0f2027?style=flat-square&logo=bugsnag&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Goal-Production%20Ready-203a43?style=flat-square&logo=checkmarx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Fuel-Coffee%20%2B%20Code-6f4e37?style=flat-square&logo=buymeacoffee&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mode-Always%20Learning-512BD4?style=flat-square&logo=academia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mindset-Problem%20Solver-2c5364?style=flat-square&amp;logo=thinkpad&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Loves-Clean%20Code-88c0d0?style=flat-square&amp;logo=codacy&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hobby-Debugging-0f2027?style=flat-square&amp;logo=bugsnag&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Goal-Production%20Ready-203a43?style=flat-square&amp;logo=checkmarx&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fuel-Coffee%20%2B%20Code-6f4e37?style=flat-square&amp;logo=buymeacoffee&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mode-Always%20Learning-512BD4?style=flat-square&amp;logo=academia&amp;logoColor=white"/>
 </p>
 
 </td>
@@ -76,7 +76,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kenneennn&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kenneennn&amp;theme=algolia&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -87,53 +87,53 @@
 ### 💻 Languages
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&amp;logo=csharp&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&amp;logo=databricks&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white"/>
 </p>
 
-### ⚙️ Frameworks & Runtimes
+### ⚙️ Frameworks &amp; Runtimes
 
 <p align="left">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&amp;logo=dotnet&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&amp;logo=dotnet&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&amp;logo=blazor&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&amp;logo=express&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB"/>
 </p>
 
 ### 🗄️ Databases
 
 <p align="left">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&amp;logo=mysql&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&amp;logo=microsoftsqlserver&amp;logoColor=white"/>
 </p>
 
-### 🔧 DevOps & Tools
+### 🔧 DevOps &amp; Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black"/>
 </p>
 
-### 🧠 IDEs & Editors
+### 🧠 IDEs &amp; Editors
 
 <p align="left">
-  <img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&amp;logo=jetbrains&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&amp;logo=rider&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&amp;logo=datagrip&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&amp;logo=intellijidea&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&amp;logo=visualstudio&amp;logoColor=white"/>
 </p>
 
 ---
@@ -141,19 +141,19 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kenneennn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=88c0d0&icon_color=2c5364&text_color=ffffff" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kenneennn&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=88c0d0&amp;icon_color=2c5364&amp;text_color=ffffff" height="170"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenneennn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=88c0d0&text_color=ffffff" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenneennn&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=88c0d0&amp;text_color=ffffff" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kenneennn&theme=tokyonight&hide_border=true&background=0d1117&ring=2c5364&fire=88c0d0&currStreakLabel=88c0d0" width="60%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kenneennn&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;ring=2c5364&amp;fire=88c0d0&amp;currStreakLabel=88c0d0" width="60%"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kenneennn&bg_color=0d1117&color=88c0d0&line=2c5364&point=ffffff&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kenneennn&amp;bg_color=0d1117&amp;color=88c0d0&amp;line=2c5364&amp;point=ffffff&amp;area=true&amp;hide_border=true" width="100%"/>
 </div>
 
 ---
@@ -175,13 +175,13 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/kenjim-grande-87575435b">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
   </a>
   <a href="https://fb.com/kenjimgrande">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white"/>
   </a>
   <a href="https://instagram.com/kennnennnn">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white"/>
   </a>
 </p>
 
@@ -193,4 +193,4 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2c5364,50:203a43,100:0f2027&amp;height=120&amp;section=footer" width="100%"/>
