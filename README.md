@@ -1,106 +1,185 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=220&section=header&text=Hi,%20I'm%20Ken%20👨🏻‍💻&fontSize=70&animation=fadeIn" />
+<div align="center">
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░ HEADER ░░░░░░░░░░░░░░░░░░░░░░ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ken%20Grande&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Full-Stack%20%26%20Backend&descAlignY=58&descColor=88c0d0&animation=fadeIn" width="100%"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=kenneennn&label=Profile%20Views&color=2c5364&style=for-the-badge" alt="profile views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/kenneennn?label=Followers&style=for-the-badge&color=203a43&logoColor=white" alt="followers"/>
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+```yaml
+name:     Ken Grande
+role:     Software Developer — Full-Stack & Backend
+location: Philippines 🇵🇭
+focus:
+  - Building scalable web and system applications
+  - Clean architecture, performance & maintainability
+  - API development and system integration
+  - Database design and optimization
+currently_learning:
+  - Cloud technologies (Azure / AWS)
+  - Advanced backend patterns & microservices
+  - DevOps fundamentals & CI/CD pipelines
+open_to:  Collaboration on impactful and innovative projects
+fun_fact: I debug for fun. Yes, really. 🐛→✅
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-<h3 align="center">Software Developer | Full-Stack & Backend Specialist</h3>
-<p align="center">
-  <b>.NET Core • ASP.NET • Blazor • JavaScript • Docker • SQL Server</b>
+### ⚙️ Frameworks & Runtimes
+
+<p align="left">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kenneennn&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/kenneennn?label=Follow&style=social" />
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
-<p align="center">
-  Passionate about building scalable backend architectures, clean APIs, and modern web interfaces. <br>
-  I turn complex business requirements into high-performance, production-ready software.
+### 🔧 DevOps & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+### 🧠 IDEs & Editors
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
 </p>
 
 ---
 
-## 🚀 About Me
+## ⭐ Featured Projects
+
+### 🧾 1. Project Name
+> Short description — what it does and why it matters
+
+**Tech Stack:** `C#` `ASP.NET` `SQL Server` `Docker`
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kenneennn/project-name)
+
+---
+
+### 📊 2. Project Name
+> Short description — e.g., REST API for managing orders with JWT authentication
+
+**Tech Stack:** `Node.js` `Express` `MySQL`
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kenneennn/project-name)
+
+---
+
+### 🌐 3. Project Name
+> Short description — e.g., Full-stack web app with Blazor frontend and .NET backend
+
+**Tech Stack:** `Blazor` `ASP.NET` `SQL Server` `Docker`
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kenneennn/project-name)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kenneennn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=88c0d0&icon_color=2c5364&text_color=ffffff" height="170"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenneennn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=88c0d0&text_color=ffffff" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kenneennn&theme=tokyonight&hide_border=true&background=0d1117&ring=2c5364&fire=88c0d0&currStreakLabel=88c0d0" width="60%"/>
+</div>
+
+---
+
+## 🧩 Core Competencies
+
+| Area | Skills |
+|------|--------|
+| 🔌 **Backend** | REST API Development, ASP.NET Core, Node.js, Blazor Server |
+| 🌐 **Frontend** | React, Blazor WebAssembly, HTML/CSS, JavaScript |
+| 🗄️ **Database** | MySQL, MSSQL, Schema Design, Query Optimization |
+| 🐳 **DevOps** | Docker, Containerization, Linux, Git Workflows |
+| 🏗️ **Architecture** | Clean Architecture, System Integration, Microservices (learning) |
+| 🔍 **Other** | Debugging, Performance Tuning, Code Review |
+
+---
+
+## 📌 Current Focus
 
 ```diff
-+ 💼 Software Developer specializing in the .NET Ecosystem (C# / ASP.NET / Blazor)
-+ 🧠 Strong focus on Clean Architecture, Design Patterns, and SOLID principles
-+ 🔧 Experienced in containerization with Docker and CI/CD workflows
-+ 🏗️ Expert in Database Design using MS SQL Server and MySQL
-+ 🛠️ Daily driver of JetBrains tools for maximum development efficiency
-+ 🌱 Currently exploring Microservices and Azure Cloud Fundamentals
-+ 🤝 Open to collaborating on innovative Open Source projects
++ 🐳 Containerizing apps with Docker & Docker Compose
++ ☁️  Exploring Azure / cloud deployment pipelines
++ ⚡  Deep-diving into ASP.NET Core & Blazor advanced patterns
++ 🏗️  Improving system design and microservices architecture
++ 🔄  Learning CI/CD with GitHub Actions
+```
 
-🛠️ Tech Stack
-🟦 .NET & Backend Powerhouse
+---
+
+## 🤝 Connect With Me
+
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" title="C#"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="45" title=".NET Core / 6 / 7 / 8"/>
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="45" title="ASP.NET Core"/>
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/blazor/blazor-original.svg" width="45" title="Blazor"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" title="Node.js"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" title="Express.js"/>
-</p>
-🗄️ Database Management
-<p align="left">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" title="Microsoft SQL Server"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" title="MySQL"/>
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" title="MongoDB"/>
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" title="PostgreSQL"/>
+  <a href="https://linkedin.com/in/kenjim-grande-87575435b">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://fb.com/kenjimgrande">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/kennnennnn">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
-🌐 Frontend & Frameworks
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" title="React"/>
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" title="HTML5"/>
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" title="CSS3"/>
-</p>
+---
 
-⚙️ DevOps & Developer Tools
-<p align="left">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" title="Docker"/>
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" width="45" title="JetBrains Suite (Rider, WebStorm)"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" title="Postman"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" title="Git"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" title="Linux"/>
-</p>
+## ⚡ Fun Fact
 
-⭐ Featured Projects
-🏥 Project One: Enterprise Management System
-Key Features: Automated scheduling, secure authentication, and real-time reporting.
+> *"I don't just write code — I architect solutions, debug relentlessly, and ship with confidence."* 🚀
 
-Stack: ASP.NET Core API, Blazor Server, MS SQL Server, Docker.
+---
 
-🔗 Repo Link
-
-🛒 Project Two: Modern E-Commerce Engine
-Key Features: High-performance product catalog, shopping cart logic, and MySQL integration.
-
-Stack: Node.js, Express, MySQL, React.
-
-🔗 Repo Link
-
-📊 GitHub Stats
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dkenneennn%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue" />
-
-
-
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dkenneennn%26theme%3Dtokyonight%26hide_border%3Dtrue" />
-</p>
-
-🤝 Connect With Me
-<p align="left">
-<a href="https://linkedin.com/in/kenjim-grande-87575435b" target="blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /></a>
-<a href="https://fb.com/kenjimgrande" target="blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Facebook-1877F2%3Fstyle%3Dfor-the-badge%26logo%3Dfacebook%26logoColor%3Dwhite" /></a>
-<a href="https://instagram.com/kennnennnn" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="mailto:your-email@example.com" target="blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" /></a>
-</p>
-
-<p align="center">
-<i>"Code is like humor. When you have to explain it, it’s bad."</i> 
-
-
-
-<b>Happy Coding! 🚀</b>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
