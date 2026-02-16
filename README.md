@@ -16,22 +16,69 @@
 
 ## 🧑‍💻 About Me
 
-```yaml
-name:     Ken Grande
-role:     Software Developer — Full-Stack & Backend
-location: Philippines 🇵🇭
-focus:
-  - Building scalable web and system applications
-  - Clean architecture, performance & maintainability
-  - API development and system integration
-  - Database design and optimization
-currently_learning:
-  - Cloud technologies (Azure / AWS)
-  - Advanced backend patterns & microservices
-  - DevOps fundamentals & CI/CD pipelines
-open_to:  Collaboration on impactful and innovative projects
-fun_fact: I debug for fun. Yes, really. 🐛→✅
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=88C0D0&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Ken+Grande+%F0%9F%91%8B;Full-Stack+%26+Backend+Developer;.NET+%7C+Blazor+%7C+Node.js+Enthusiast;Clean+Code+%7C+Scalable+Systems;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🪪 Identity
 ```
+╔══════════════════════════════════╗
+║  👤  Ken Grande                  ║
+║  💼  Software Developer          ║
+║  🌏  Philippines 🇵🇭              ║
+║  🏢  Full-Stack & Backend        ║
+║  📬  Open to Collaboration       ║
+╚══════════════════════════════════╝
+```
+
+### 🎯 What I Do
+- 🔌 **Build** scalable REST APIs & web systems
+- 🏗️ **Architect** clean, maintainable solutions
+- 🗄️ **Design** efficient database schemas
+- 🐳 **Containerize** apps with Docker
+- 🔍 **Debug** relentlessly until it's perfect
+
+</td>
+<td valign="top" width="50%">
+
+### 🌱 Currently Leveling Up
+```diff
++ ☁️  Cloud (Azure / AWS)
++ 🔄  CI/CD with GitHub Actions
++ 🧩  Microservices Architecture
++ ⚡  Advanced Blazor & ASP.NET Core
++ 🐳  Docker Compose & Orchestration
+```
+
+### ⚡ Developer DNA
+<p>
+  <img src="https://img.shields.io/badge/Mindset-Problem%20Solver-2c5364?style=flat-square&logo=thinkpad&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Loves-Clean%20Code-88c0d0?style=flat-square&logo=codacy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hobby-Debugging-0f2027?style=flat-square&logo=bugsnag&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Goal-Production%20Ready-203a43?style=flat-square&logo=checkmarx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fuel-Coffee%20%2B%20Code-6f4e37?style=flat-square&logo=buymeacoffee&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mode-Always%20Learning-512BD4?style=flat-square&logo=academia&logoColor=white"/>
+</p>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kenneennn&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
@@ -66,7 +113,6 @@ fun_fact: I debug for fun. Yes, really. 🐛→✅
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
 ### 🔧 DevOps & Tools
@@ -92,35 +138,6 @@ fun_fact: I debug for fun. Yes, really. 🐛→✅
 
 ---
 
-## ⭐ Featured Projects
-
-### 🧾 1. Project Name
-> Short description — what it does and why it matters
-
-**Tech Stack:** `C#` `ASP.NET` `SQL Server` `Docker`
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kenneennn/project-name)
-
----
-
-### 📊 2. Project Name
-> Short description — e.g., REST API for managing orders with JWT authentication
-
-**Tech Stack:** `Node.js` `Express` `MySQL`
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kenneennn/project-name)
-
----
-
-### 🌐 3. Project Name
-> Short description — e.g., Full-stack web app with Blazor frontend and .NET backend
-
-**Tech Stack:** `Blazor` `ASP.NET` `SQL Server` `Docker`
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kenneennn/project-name)
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -131,6 +148,12 @@ fun_fact: I debug for fun. Yes, really. 🐛→✅
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kenneennn&theme=tokyonight&hide_border=true&background=0d1117&ring=2c5364&fire=88c0d0&currStreakLabel=88c0d0" width="60%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kenneennn&bg_color=0d1117&color=88c0d0&line=2c5364&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
@@ -145,18 +168,6 @@ fun_fact: I debug for fun. Yes, really. 🐛→✅
 | 🐳 **DevOps** | Docker, Containerization, Linux, Git Workflows |
 | 🏗️ **Architecture** | Clean Architecture, System Integration, Microservices (learning) |
 | 🔍 **Other** | Debugging, Performance Tuning, Code Review |
-
----
-
-## 📌 Current Focus
-
-```diff
-+ 🐳 Containerizing apps with Docker & Docker Compose
-+ ☁️  Exploring Azure / cloud deployment pipelines
-+ ⚡  Deep-diving into ASP.NET Core & Blazor advanced patterns
-+ 🏗️  Improving system design and microservices architecture
-+ 🔄  Learning CI/CD with GitHub Actions
-```
 
 ---
 
