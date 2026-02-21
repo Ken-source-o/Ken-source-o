@@ -56,11 +56,19 @@
 
 ### 🌱 Currently Leveling Up
 ```diff
-+ ☁️  Cloud (Azure / AWS)
-+ 🔄  CI/CD with GitHub Actions
-+ 🧩  Microservices Architecture
-+ ⚡  Advanced Blazor & ASP.NET Core
-+ 🐳  Docker Compose & Orchestration
++ 🗄️ Database Design & Optimization (SQL Server / MySQL / PostgreSQL)
++ 📡 RESTful API & gRPC Development
++ 🔐 Authentication & Authorization (JWT, OAuth2, IdentityServer)
++ 📊 Logging & Monitoring (Serilog, ELK Stack, Prometheus, Grafana)
++ 🧪 Unit & Integration Testing (xUnit, NUnit, Moq)
++ 🚀 Performance Tuning & Scalability
++ 🧱 Clean Architecture & Domain-Driven Design (DDD)
++ 🔁 Message Queues (RabbitMQ, Kafka, Azure Service Bus)
++ 🌐 Frontend Integration (React / Angular Basics)
++ 🛠️ Infrastructure as Code (Terraform / Bicep)
++ 🔎 API Documentation (Swagger / OpenAPI)
++ 🧯 Resilience Patterns (Polly, Circuit Breaker, Retry)
+
 ```
 
 ### ⚡ Developer DNA
